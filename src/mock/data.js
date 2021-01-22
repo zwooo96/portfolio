@@ -18,8 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_me.jpg',
-  paragraphOne: '한 줄 소개',
-  paragraphTwo: '',
+  paragraphOne: '"웹과 앱 개발에 관심이 많고, 세상을 바꾸는 개발자가 되고 싶습니다. 🌎🙋‍♀️"',
+  paragraphTwo:
+    '새로운 가치를 만들어 낼 수 있다는 매력에 빠져 개발을 시작하게 되었습니다. 불편함을 해소하여 많은 사람에게 도움을 주고 싶어 사람들이 필요로 하는 것에 대해 항상 고민합니다. 도전을 좋아해서 새로운 것을 배울 때 거리낌이 없으며, 오랜 고민 끝에 좋은 결과물이 나왔을 때 가장 성취감을 느낍니다.',
   paragraphThree: '👇 아래 버튼을 클릭하시면 더 자세한 포트폴리오를 보실 수 있습니다.',
   resume: 'https://www.notion.so/Jiwoo-Yi-689d6bc1a79d4ea1813fac3c6705382a', // if no resume, the button will not show up
 };
@@ -67,7 +68,7 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'medium',
+      name: 'vimeo',
       url: 'https://velog.io/@zwooo96',
     },
     //    {
