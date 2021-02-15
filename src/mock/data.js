@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'marketcollie.png',
     title: '마켓콜리 Market Collie',
     info: '📅 개발기간 : 2020-08-24 ~ 2020-10-18',
-    info2: '👩‍💻 사용언어 : Java, HTML, CSS, Javascript',
+    info2: '👩‍💻 사용언어 : Java, HTML, CSS, JavaScript',
     url: 'https://github.com/zwooo96/marketcollie_user',
     // repo: 'https://github.com/zwooo96/marketcollie_user', // if no repo, the button will not show up
   },
@@ -41,7 +41,7 @@ export const projectsData = [
     img: 'hotelluna_final.png',
     title: '호텔 루나 Hotel Luna',
     info: '📅 개발기간 : 2020-07-27 ~ 2020-08-20',
-    info2: '👩‍💻 사용언어 : Java, HTML, CSS, Javascript',
+    info2: '👩‍💻 사용언어 : Java, HTML, CSS, JavaScript',
     url: 'https://github.com/zwooo96/hotelluna',
     // repo: 'https://github.com/zwooo96/hotelluna', // if no repo, the button will not show up
   },
@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'minipharmacy_final.png',
     title: '미니약국',
-    info: '📅 개발기간 : 2018-01-16 ~ 2019-02-14',
+    info: '📅 개발기간 : 2019-01-16 ~ 2019-02-14',
     info2: '👩‍💻 사용언어 : Swift',
     url: 'https://apps.apple.com/kr/app/%EB%AF%B8%EB%8B%88%EC%95%BD%EA%B5%AD/id1469902368',
     repo: 'https://github.com/zwooo96/mini-pharmacy', // if no repo, the button will not show up
