@@ -29,6 +29,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'codoing.png',
+    title: 'Co-doing',
+    info: '📅 개발기간 : 2021-01-02 ~ 2021-04-18',
+    info2: '👩‍💻 사용언어 : Java, HTML, CSS, JavaScript',
+    url: 'http://www.co-doing.com/main.do',
+    repo: 'https://github.com/RG-RG/user', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'marketcollie.png',
     title: '마켓콜리 Market Collie',
     info: '📅 개발기간 : 2020-08-24 ~ 2020-10-18',
